@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "anchored_at": "2026-11-02T06:00:25.950Z",
+  "date": "2026-11-02",
+  "ledgers": [
+    {
+      "ledger": "subsidy",
+      "head_hash": "c37ca683b04c97582aace46890ca762cb3dcc5f3bb98fd84d892e9f39a6e2705",
+      "item_count": 702
+    },
+    {
+      "ledger": "pubcom",
+      "head_hash": "c7710632e0e0e9f8a0f497e61844aa52bb81a5c06285201714ca9d9c3c230537",
+      "item_count": 1332
+    },
+    {
+      "ledger": "grant",
+      "head_hash": "30479a8485a19d6efffb937e38cc91463a05f49e5a463dd8c46a9fce4e164d76",
+      "item_count": 45
+    },
+    {
+      "ledger": "bid",
+      "head_hash": "d1881ad457e1e20a9ef28279deb0dc102b20f2c3b4e7064f91a43c0e5cd971b2",
+      "item_count": 15766
+    },
+    {
+      "ledger": "sanction",
+      "head_hash": "35d57c7f6864b4b6897a77063d69ec37274c936d55d344b7b940e2b9719f49f9",
+      "item_count": 2821
+    },
+    {
+      "ledger": "license",
+      "head_hash": "2bf4f098498be6085577a98c627257368c3eb540cd8f28cd2fd7b8909d38e09d",
+      "item_count": 3433
+    },
+    {
+      "ledger": "recall",
+      "head_hash": "b0117fb7d3b938a8e677c95f6aef191bc2e3c28fc9727ea8d6b0c4ae4e627480",
+      "item_count": 763
+    },
+    {
+      "ledger": "pharma",
+      "head_hash": "e4cf3aee2e167b12f2a7f2728e7dc62a6837817bba35ab13c3c7ff0a6765ca2e",
+      "item_count": 12636
+    },
+    {
+      "ledger": "ordinance",
+      "head_hash": "3658688ba23cea191f3c7709a97c8d6601509fa4f87d12fc4ca762588f9d805f",
+      "item_count": 11671
+    },
+    {
+      "ledger": "realestate",
+      "head_hash": "eeaf978ef483e2673e0a79038e70c3eb9435dcb743db142e6bc2819f37ae4d61",
+      "item_count": 224066
+    },
+    {
+      "ledger": "tos",
+      "head_hash": "a51c9e41f2c366689bbd8e1dbbe73524a09a7f8fc53d12f293a9745eb9b9b029",
+      "item_count": 16
+    },
+    {
+      "ledger": "landprice",
+      "head_hash": "9c2c766316bc09ea59fb26df7b85613b9dc3adeaf18acccf4f83592cabd4621f",
+      "item_count": 25565
+    }
+  ]
+}
